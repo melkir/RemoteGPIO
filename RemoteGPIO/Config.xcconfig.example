@@ -1,0 +1,3 @@
+CF_ACCESS_CLIENT_ID = your_client_id_here
+CF_ACCESS_CLIENT_SECRET = your_client_secret_here
+REMOTE_GPIO_URL = your_remote_gpio_url_here
