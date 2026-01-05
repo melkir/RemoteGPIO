@@ -2,7 +2,7 @@
 
 SwiftUI app to control GPIO pins on a remote server via WebSocket with Cloudflare Access authentication.
 
-![RemoteGPIO Screenshot](https://github.com/user-attachments/assets/5eef8ee5-4c99-4839-939e-fc299a29fc59)
+<img src="https://github.com/user-attachments/assets/5eef8ee5-4c99-4839-939e-fc299a29fc59" width="300" alt="RemoteGPIO Screenshot">
 
 ## Features
 
